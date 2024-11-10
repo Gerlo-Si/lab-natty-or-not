@@ -1,7 +1,7 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
-
+Esse vídeo apresenta uma visão rápida da importância da maior participação das mulheres na área de TI da CEF.
 > Woooow! Look at this 👀
 
 Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
